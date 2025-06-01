@@ -1,3 +1,9 @@
+## Summary
+
+This project is a machine learning model for predicting house prices based on energy efficiency and other features. It demonstrates the use of neural networks and hyperparameter optimization with TensorFlow and Keras Tuner.
+
+
+
 # Energy-class-for-homes
 Building AI solution for energy class for homes
 
